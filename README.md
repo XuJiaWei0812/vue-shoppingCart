@@ -1,29 +1,14 @@
-# shoppingCart
+# vue-shoppingCart
 
-This template should help get you started developing with Vue 3 in Vite.
+簡易的購物車功能，可以新增、刪除、修改商品與數量，並且計算總數量與總金額。
 
-## Recommended IDE Setup
+## 安裝方法
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## 學習技術
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+使用Vue3開發，學習到 composition api、Pinia 的基礎使用方法。
